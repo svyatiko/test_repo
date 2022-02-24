@@ -1,2 +1,3 @@
-for i in range(1, 20):
-    print('value:' str(i))
+def func(x):
+    y = x + 1
+    return y
