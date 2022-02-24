@@ -1,3 +1,3 @@
-def func(x):
-    y = x + 1
-    return y
+def func(z):
+    sum = z + 1
+    return sum
